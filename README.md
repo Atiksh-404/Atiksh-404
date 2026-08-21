@@ -1,6 +1,6 @@
 # Hey, I'm Atiksh 👋
 
-🎓 **B.Tech CSE (AI) @ Bennett University**
+🎓 **B.Tech CSE (AI) @ Student**
 
 I'm a student developer who enjoys **building things, experimenting with technology, and learning by doing**.
 
